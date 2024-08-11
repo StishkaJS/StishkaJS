@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @StishkaJS
 - 👀 I’m interested in Web&Game Development
-- 📫 Reach me on discord: stishka
+- 📫 Reach me out on discord: stishka
